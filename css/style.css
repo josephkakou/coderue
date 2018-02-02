@@ -1,0 +1,123 @@
+@charset "UTF-8";
+/*font-family: 'Open Sans', sans-serif;*/
+body, html {padding: 0px;
+            margin: 0px;
+}
+
+body {
+  font-family: font-family: 'Open Sans', sans-serif;}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+.container-fluid {
+  padding: 0px;
+}
+
+
+.separator {
+  height: 3px;
+  width: 5%;
+  border: none;
+  box-shadow: none;
+  background-color: #FF8C00;
+}
+/* header */
+.header {
+       background-color: #FF8C00;
+         height: 70px;  
+         line-height: 70px;
+
+}
+
+.footer {
+       background-color: #FA8072;
+
+}
+.logo {
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+  float: left;
+}
+
+.menu {
+  float: right;
+}
+
+.menu a {
+  color: #ffffff;
+  margin-right: 20px;
+}
+
+.menu a:hover {
+  color: #7CFC00;
+}
+/* bannière */
+.banner {
+  width: 100%;
+  max-width: 100%;
+}
+
+.ban {
+  width: 100%;
+  max-width: 100%;
+}
+
+.ban img {
+  width: 100%;
+  max-width: 100%;
+}
+
+.inner-banner {
+  position: absolute;
+  top: 40%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.inner-banner h1 {
+  color: #ffffff;
+  text-shadow: 1px 1px 20px #000000;
+
+}
+
+.inner-banner .btn-custom {
+  background-color: #FF8C00;
+  color: #ffffff;
+}
+
+..inner-banner .btn-custom:hover{
+  background-color: #7CFC00;
+}
+/* aout */
+
+#about {
+  text-align: center;
+  padding: 15%;
+}
+
+
+.about article  {
+  margin-top: 10%;
+  
+}
+.about article h2 {
+  text-align: center;
+
+}
+
+.para {
+     text-align: center;
+
+}
+
+
+
+
+/* portolio */
+
+/* contact */
