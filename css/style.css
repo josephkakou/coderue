@@ -29,14 +29,14 @@ a, a:hover {
 }
 /* header */
 .header {
-       background-color: #0000CD;
+       background-color: #00ffff;
          height: 70px;  
          line-height: 70px;
 
 }
 
 .footer {
-       background-color: #FA8072;
+       background-color: #00ffff;
 
 }
 .logo {
@@ -91,12 +91,12 @@ a, a:hover {
 }
 
 .inner-banner .btn-custom {
-  background-color: #0000cd;
+  background-color: #00ffff;
   color: #ffffff;
 }
 
 ..inner-banner .btn-custom:hover{
-  background-color: #0000cd;
+  background-color: #00ffff;
 }
 /* aout */
 
