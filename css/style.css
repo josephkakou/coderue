@@ -29,7 +29,7 @@ a, a:hover {
 }
 /* header */
 .header {
-       background-color: 0000CD;
+       background-color: #0000CD;
          height: 70px;  
          line-height: 70px;
 
@@ -90,7 +90,7 @@ a, a:hover {
 }
 
 .inner-banner .btn-custom {
-  background-color: #FF8C00;
+  background-color: #0000CD;
   color: #ffffff;
 }
 
