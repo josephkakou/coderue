@@ -84,18 +84,18 @@ a, a:hover {
 }
 
 .inner-banner h1 {
-  color: #0000CD;
+  color: blue;
   text-shadow: 1px 1px 20px #000000;
 
 }
 
 .inner-banner .btn-custom {
-  background-color: #0000CD;
+  background-color: blue;
   color: #ffffff;
 }
 
 ..inner-banner .btn-custom:hover{
-  background-color: #7CFC00;
+  background-color: blue;
 }
 /* aout */
 
