@@ -63,6 +63,7 @@ a, a:hover {
 .banner {
   width: 100%;
   max-width: 100%;
+  overflow: hidden;
 }
 
 .ban {
@@ -84,18 +85,18 @@ a, a:hover {
 }
 
 .inner-banner h1 {
-  color: blue;
+  color: #ffffff;
   text-shadow: 1px 1px 20px #000000;
 
 }
 
 .inner-banner .btn-custom {
-  background-color: blue;
+  background-color: #0000cd;
   color: #ffffff;
 }
 
 ..inner-banner .btn-custom:hover{
-  background-color: blue;
+  background-color: #0000cd;
 }
 /* aout */
 
